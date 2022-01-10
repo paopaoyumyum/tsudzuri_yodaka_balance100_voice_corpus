@@ -1,5 +1,5 @@
 # 綴よだか 音素バランス100文コーパス v0.1 
-![yodaka_DL6](https://user-images.githubusercontent.com/32325910/147927243-30cda266-4438-4e65-870c-876b95abb10d.png)
+![yodaka_DL7](https://user-images.githubusercontent.com/32325910/148708452-50c3b2e6-17d4-4200-b12e-c36e3bffd804.png)
 
 [日本声優統計学会](http://voice-statistics.github.io "日本声優統計学会")様が公開されている  
 [音素バランス100文](https://github.com/voice-statistics/voice-statistics.github.com/blob/master/assets/doc/balance_sentences.txt "音素バランス100文")
@@ -11,7 +11,7 @@
 が適用されています
 ラベルデータや原型を留めた音声の再配布に関しては上記のライセンスが適用されます。
 
-★当コーパスを用いて出力した音声は「音素バランス100文そのまま」の内容を含まない限り
+★当コーパスを用いて出力した音声は「音素バランス100文」の内容を含まない限り
 [SN1572の利用規約](http://sn1572-nighthawk.sakura.ne.jp/tos.html "SN1572")が適用されます
 
 
