@@ -8,7 +8,7 @@
 # ■ライセンスに関して
 ★[日本声優統計学会](http://voice-statistics.github.io "日本声優統計学会") 様が公開されている[音素バランス100文](https://github.com/voice-statistics/voice-statistics.github.com/blob/master/assets/doc/balance_sentences.txt "音素バランス100文")は
 [継承(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ja　 "CC BY-SA 4.0")
-が適用されています
+が適用されています  
 ラベルデータや原型を留めた音声の再配布に関しては上記のライセンスが適用されます。
 
 ★当コーパスを用いて出力した音声は「音素バランス100文」の内容を含まない限り
