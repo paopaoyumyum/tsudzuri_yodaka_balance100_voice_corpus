@@ -11,7 +11,7 @@
 が適用されています  
 ラベルデータや原型を留めた音声の再配布に関しては上記のライセンスが適用されます。
 
-★当コーパスを用いて出力した音声は「[音素バランス100文](https://github.com/voice-statistics/voice-statistics.github.com/blob/master/assets/doc/balance_sentences.txt "音素バランス100文")」の内容を含まない限り
+★当コーパスを用いて出力した音声は「[音素バランス100文](https://github.com/voice-statistics/voice-statistics.github.com/blob/master/assets/doc/balance_sentences.txt "音素バランス100文")」の内容を含まない限り  
 [SN1572の利用規約](http://sn1572-nighthawk.sakura.ne.jp/tos.html "SN1572")が適用されます
 
 
