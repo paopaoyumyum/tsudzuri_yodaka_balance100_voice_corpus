@@ -14,7 +14,7 @@ https://github.com/voice-statistics/voice-statistics.github.com/blob/master/asse
 継承(CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.ja　が適用されています
 ラベルデータや原型を留めた音声の再配布に関しては上記のライセンスが適用されます。
 
-★当コーパスを用いて出力した音声は「音素バランス100文そのまま」の内容を含まない限り
+★当コーパスを用いて出力した音声は「音素バランス100文」の内容を含まない限り
 SN1572の利用規約が適用されます
 http://sn1572-nighthawk.sakura.ne.jp/tos.html
 
